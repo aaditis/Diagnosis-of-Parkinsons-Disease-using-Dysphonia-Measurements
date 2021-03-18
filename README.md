@@ -11,3 +11,5 @@ The following data exploration techniques were implemented on the dataset:
 4) Unsupervised: K-means, Clustergram, Principal Component Analysis.
 
 The dataset was divided into training data and testing data with 70% split and 30% split respectively for Logistic Regression, Decision Trees, Random Forest and Support Vector Machine, and 80% and 20% split for Neural Networks. The model was designed using cross-validation. The test data was evaluated based on average accuracy, precision, recall, confusion matrix, correlation, MAE.
+
+<img width="461" alt="evaluationMetric" src="https://user-images.githubusercontent.com/73272667/111698052-befa6c80-880c-11eb-831e-37d75528b1e0.PNG">
